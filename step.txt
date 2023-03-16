@@ -1,0 +1,5 @@
+1. clone a repo
+2. do your changes
+3. add the file
+4. commit
+5. push/pull
